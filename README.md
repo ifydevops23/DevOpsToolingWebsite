@@ -74,10 +74,7 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 
-## Changes for Jenkins!
-### Another Change for Jenkins!
-# More Changes!!!! 
-## Here to Edit and Committ More.
+Todays Job Of CICD again....http://54.145.158.121/http://54.145.158.121/
 Changes for GitHub Webhook.
 Edit more.
 ## http://54.211.59.65:8080/http://54.211.59.65:8080/http://54.211.59.65:8080/http://54.211.59.65:8080/
